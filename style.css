@@ -1,4 +1,18 @@
 html{
     background-color: black;
     color: #FFF;
+    font-family: sans-serif;
+    text-align: center;
+}
+
+a{
+    color: chartreuse;
+}
+
+a:hover{
+    color: crimson;
+}
+
+img{
+    max-width: 100%;
 }
