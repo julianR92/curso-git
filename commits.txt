@@ -1,0 +1,87 @@
+commit a1206379ba740c3c871fcb213f964fe15ef356e1
+Author: julianR92 <julianrincon9230@gmail.com>
+Date:   Mon Aug 7 12:12:39 2023 -0500
+
+    agregando estaciones
+
+commit e4c61e7df00499cc2f1367203b6879e5170a74c3
+Merge: 5a5ba5f 0c4e7dc
+Author: julianR92 <julianrincon9230@gmail.com>
+Date:   Mon Aug 7 12:00:28 2023 -0500
+
+    resolviendo conflictos merge main-html
+
+commit 0c4e7dc23643ccc083760be39939a6e6231a4079
+Author: julianR92 <julianrincon9230@gmail.com>
+Date:   Mon Aug 7 11:53:59 2023 -0500
+
+    cambios en rama html
+
+commit 5a5ba5fa0de2ed09b73ffe79ff265b6770ed32a3
+Author: julianR92 <julianrincon9230@gmail.com>
+Date:   Mon Aug 7 11:50:36 2023 -0500
+
+    new version html
+
+commit 4391f88656d8023695ee3191dd4fee2df56167a5
+Merge: 9469dfa b80503d
+Author: julianR92 <julianrincon9230@gmail.com>
+Date:   Mon Aug 7 11:34:27 2023 -0500
+
+    Merge branch 'js'
+
+commit b80503d1514f12d77e86ee41695723ef6810733c
+Author: julianR92 <julianrincon9230@gmail.com>
+Date:   Mon Aug 7 11:23:44 2023 -0500
+
+    creando index.js
+
+commit 9469dfaf0223a1e3b2cf0e477f372cbd96bd0761
+Author: julianR92 <julianrincon9230@gmail.com>
+Date:   Mon Aug 7 11:16:23 2023 -0500
+
+    archivo style.css
+
+commit 3c72512571bf27ddd59915c6577417f26af45a4c
+Author: julianR92 <julianrincon9230@gmail.com>
+Date:   Mon Aug 7 11:07:20 2023 -0500
+
+    add index.html
+
+commit fff8dad9c7a083090b0469c39d915619174e17a8
+Author: julianR92 <julianrincon9230@gmail.com>
+Date:   Mon Aug 7 10:40:36 2023 -0500
+
+    ignorando files .exe
+
+commit e462ae160c485ffd53f9a58f9c6f471f8c433863
+Author: Julian Rincon <52473935+julianR92@users.noreply.github.com>
+Date:   Mon Aug 7 09:58:17 2023 -0500
+
+    Update README.md
+    
+    update Readme
+
+commit 49b8620cf4e8aac9ea6ff1658a79f65dedba512d
+Author: Julian Rincon <52473935+julianR92@users.noreply.github.com>
+Date:   Fri Jul 7 21:40:13 2023 -0500
+
+    Creando licencia del repositorio
+
+commit f9dff8f3a46def943f16d492f0510d13962bf328
+Author: julianR92 <julianrincon9230@gmail.com>
+Date:   Fri Jul 7 21:27:56 2023 -0500
+
+    agregando mas contenido
+
+commit d25830dac128788db0f00bf073b3df6d588c6349
+Author: julianR92 <julianrincon9230@gmail.com>
+Date:   Tue Jul 4 12:05:51 2023 -0500
+
+    agregando contenido inicial al README
+
+commit f786240a90a7167039fe817adc42cb22a7e2c8dc
+Author: julianR92 <julianrincon9230@gmail.com>
+Date:   Tue Jul 4 11:53:54 2023 -0500
+
+    Primer commit

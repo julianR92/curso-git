@@ -1,0 +1,19 @@
+* a120637 agregando estaciones
+*   e4c61e7 resolviendo conflictos merge main-html
+|\  
+| * 0c4e7dc cambios en rama html
+* | 5a5ba5f new version html
+* |   4391f88 Merge branch 'js'
+|\ \  
+| * | b80503d creando index.js
+* | | 9469dfa archivo style.css
+| |/  
+|/|   
+* | 3c72512 add index.html
+|/  
+* fff8dad ignorando files .exe
+* e462ae1 Update README.md
+* 49b8620 Creando licencia del repositorio
+* f9dff8f agregando mas contenido
+* d25830d agregando contenido inicial al README
+* f786240 Primer commit
