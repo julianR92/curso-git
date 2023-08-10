@@ -14,4 +14,4 @@ para probar de nuevo el comando pull
 
 Este commit es para oficializar nuestra version **1.0.0**
 
-cambio de pruebass
+resolvi los conflictos
