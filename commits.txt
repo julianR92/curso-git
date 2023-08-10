@@ -1,3 +1,61 @@
+commit 7c258435aa64086473ac6c1ac793ccd33dcf5891
+Merge: a9599d2 d858f3b
+Author: Julian Rincon <52473935+julianR92@users.noreply.github.com>
+Date:   Thu Aug 10 13:28:50 2023 -0500
+
+    Merge pull request #1 from phpdevcol/readme-phpdevcol
+    
+    Readme phpdevcol
+
+commit d858f3b1941ac0537bc26a2c2c23a824d3edc2db
+Merge: b5366f2 a9599d2
+Author: Julian Rincon <52473935+julianR92@users.noreply.github.com>
+Date:   Thu Aug 10 13:25:57 2023 -0500
+
+    Merge branch 'main' into readme-phpdevcol
+
+commit b5366f2368975ba158f97632866368083fe05047
+Author: phpdevcol <mandarinacrochet22@gmail.com>
+Date:   Thu Aug 10 11:54:06 2023 -0500
+
+    haciendo mejoras del README
+
+commit a9599d27e95fd9808cbbc1a7002f9b224a817be4
+Author: julianR92 <julianrincon9230@gmail.com>
+Date:   Wed Aug 9 23:07:02 2023 -0500
+
+    hola probando
+
+commit 136c403f6afc61e172f40f5532d7bd7d7f3854cd
+Author: phpdevcol <mandarinacrochet22@gmail.com>
+Date:   Wed Aug 9 22:44:31 2023 -0500
+
+    prueba 2
+
+commit 03d3563f6d4f97144c9d90c20ddc662c02083336
+Author: JR PHP DEV COL <mandarinacrochet22@gmail.com>
+Date:   Wed Aug 9 22:31:42 2023 -0500
+
+    cambio de prueba
+
+commit 2d318fdbd6a1af8b531caa5ae96a1104723af572
+Author: julianR92 <julianrincon9230@gmail.com>
+Date:   Wed Aug 9 14:10:04 2023 -0500
+
+    agrenado imagenes y estilos
+
+commit 3bb9fba8a6ff0b0d1b3de10a5e3a253945333f5e
+Author: julianR92 <julianrincon9230@gmail.com>
+Date:   Wed Aug 9 13:41:12 2023 -0500
+
+    v1.0.0
+
+commit 7a7009dfe9cda3cd20e3a2b8dd54e2faf000f9d5
+Author: julianR92 <julianrincon9230@gmail.com>
+Date:   Tue Aug 8 22:48:01 2023 -0500
+
+    archivos de log
+
 commit a1206379ba740c3c871fcb213f964fe15ef356e1
 Author: julianR92 <julianrincon9230@gmail.com>
 Date:   Mon Aug 7 12:12:39 2023 -0500
